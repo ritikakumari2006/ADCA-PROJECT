@@ -1,0 +1,8 @@
+#include"stdio.h"
+#include"conic.h"
+void main()
+{
+clrscr();
+print("hello this is nmy first ADCA program!!!);
+getch();
+  }
